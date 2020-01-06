@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ecom-web/static/css/main.0e4e1986.chunk.css",
-    "main.js": "/ecom-web/static/js/main.c7bc445e.chunk.js",
-    "main.js.map": "/ecom-web/static/js/main.c7bc445e.chunk.js.map",
+    "main.js": "/ecom-web/static/js/main.6c063ec9.chunk.js",
+    "main.js.map": "/ecom-web/static/js/main.6c063ec9.chunk.js.map",
     "runtime-main.js": "/ecom-web/static/js/runtime-main.47b936dc.js",
     "runtime-main.js.map": "/ecom-web/static/js/runtime-main.47b936dc.js.map",
     "static/js/2.6a6afb07.chunk.js": "/ecom-web/static/js/2.6a6afb07.chunk.js",
     "static/js/2.6a6afb07.chunk.js.map": "/ecom-web/static/js/2.6a6afb07.chunk.js.map",
     "index.html": "/ecom-web/index.html",
-    "precache-manifest.23f1f75c760bddcb8d728ec9bf904bf0.js": "/ecom-web/precache-manifest.23f1f75c760bddcb8d728ec9bf904bf0.js",
+    "precache-manifest.febef72ff1b818d7a3ae69eaf701f8a3.js": "/ecom-web/precache-manifest.febef72ff1b818d7a3ae69eaf701f8a3.js",
     "service-worker.js": "/ecom-web/service-worker.js",
     "static/css/main.0e4e1986.chunk.css.map": "/ecom-web/static/css/main.0e4e1986.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.47b936dc.js",
     "static/js/2.6a6afb07.chunk.js",
     "static/css/main.0e4e1986.chunk.css",
-    "static/js/main.c7bc445e.chunk.js"
+    "static/js/main.6c063ec9.chunk.js"
   ]
 }
